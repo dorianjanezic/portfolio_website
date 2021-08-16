@@ -55,9 +55,14 @@ header {
 
 h1 {
     color: white;
+    font-size: 1.5rem;
 }
 h3 {
     color: white;
+}
+#first {
+    font-size: 1.5rem;
+    text-size-adjust: 1.5rem;
 }
 
 p {
