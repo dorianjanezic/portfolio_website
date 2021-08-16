@@ -182,7 +182,7 @@ header .navbar a:hover{
 .cv .education {
   display: grid;
   grid-template-columns: 1fr 2fr 2fr;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 
 .cv .creative-tech h1 {
@@ -206,7 +206,7 @@ header .navbar a:hover{
 .cv .experience {
   display: grid;
   grid-template-columns: 1fr 2fr 2fr;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 
 
@@ -214,7 +214,7 @@ header .navbar a:hover{
 .cv .creative-tech {
   display: grid;
   grid-template-columns: 1fr 2fr 2fr;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 
 .cv .creative-tech h1 {
