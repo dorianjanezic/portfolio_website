@@ -142,6 +142,11 @@ header .navbar a:hover{
   padding-top: 200px;
 }
 
+.containercv {
+  margin: auto;
+  padding-top: 200px;
+}
+
 
 #menu-bars {
     position: fixed;
@@ -167,7 +172,7 @@ header .navbar a:hover{
   padding: 10px;
   margin: 50px;
   color: #ffffff;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .cv .h1 {
@@ -184,43 +189,44 @@ header .navbar a:hover{
   text-decoration: overline;
 }
 .cv .education h1 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   text-decoration: overline;
 }
 
 .cv .experience h1 {
   text-decoration: overline;
+  font-size: 2rem;
 }
 
 .cv .skills h1 {
   text-decoration: overline;
+  font-size: 2rem;
 }
 
 .cv .experience {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr 2fr 2fr;
   margin-bottom: 50px;
 }
 
-.cv .experience h1 {
-  font-size: 2.5rem;
-}
+
 
 .cv .creative-tech {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr 2fr 2fr;
   margin-bottom: 50px;
 }
 
 .cv .creative-tech h1 {
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 
 .cv .skills {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr 2fr 2fr;
   margin-bottom: 30px;
 }
+
 
 .cv .nyu1 {
   margin-bottom: 50px;
@@ -244,10 +250,6 @@ header .navbar a:hover{
 
 .cv .software {
   margin-bottom: 50px;
-}
-
-.cv .skills h1 {
-  font-size: 2.5rem;
 }
 
 .description {
